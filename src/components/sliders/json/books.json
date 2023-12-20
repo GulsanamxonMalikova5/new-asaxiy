@@ -1,0 +1,37 @@
+[{
+    "id": 4,
+    "name": "Уолтер Айзексон: Стив Жобс",
+    "image": "https://assets.asaxiy.uz/product/main_image/desktop//5f4e05aa6ebe8.png",
+    "price": "59 000 сум",
+    "feedback": "53 отзывов"
+},{
+    "id": 7,
+    "name": "Малкольм Гладуэлл: Зукколар ва ландавурлар  (Қаттиқ муқова)",
+    "image": "https://assets.asaxiy.uz/product/main_image/desktop//60449aab902bf.png",
+    "price": "29 000 сум",
+    "feedback": "11 отзывов"
+},{
+    "id": 8,
+    "name": "Бизнесга оид 10 та энг сара адабиётлар",
+    "image": "https://assets.asaxiy.uz/product/main_image/desktop//605d815ad7b87.jpg",
+    "price": "470 000 сум",
+    "feedback": "9 отзывов"
+},{
+    "id": 9,
+    "name": "Дэн Браун: Ибтидо",
+    "image": "https://assets.asaxiy.uz/product/main_image/desktop//607155949c535.png",
+    "price": "69 000 сум",
+    "feedback": "16 отзывов"
+},{
+    "id": 10,
+    "name": "Мич Элбом: Моррининг сешанба дарслари",
+    "image": "https://assets.asaxiy.uz/product/main_image/desktop//60603821c7b68.png",
+    "price": "19 000 сум",
+    "feedback": "2 отзывов"
+},{
+    "id": 11,
+    "name": "Жавлон Жовлиев: Қўрқма",
+    "image": "https://assets.asaxiy.uz/product/main_image/desktop//6059f5e51c25d.png",
+    "price": "39 000 сум",
+    "feedback": "30 отзывов"
+}]

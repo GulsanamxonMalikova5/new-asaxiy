@@ -1,0 +1,314 @@
+.foot {
+    .footer {
+        // border: 1px solid red;
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
+        // footer__header
+        &__header {
+            // border: 1px solid red;
+            width: 98%;
+            height: auto;
+            background-color: #008dff;
+            border-radius: 15px;
+
+        }
+
+        // footer logos
+        &__logos {
+            // border: 1px solid red;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0px 20px;
+        }
+
+        &__wrap {
+            width: 55%;
+            height: auto;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            grid-gap: 15px;
+        }
+
+        &__text {
+            width: 280px;
+            text-align: center;
+
+            h2 {
+                color: #fff;
+                font-size: 20px;
+            }
+        }
+
+        &__app {
+            width: 90%;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 10px;
+
+            img {
+                width: 140px;
+                height: 44px;
+                margin-top: 5px;
+            }
+        }
+
+        // footer tell
+        &__tell {
+            margin-right: 70px;
+        }
+    }
+
+    // footer hero
+    &__hero {
+        width: 100%;
+        height: 340px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 30px;
+        background-color: #008dff;
+
+    }
+
+    &__wrapper {
+        width: 90%;
+        height: 300px;
+        background-color: #fff;
+        border-radius: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    &__hero {
+        width: 100%;
+        height: auto;
+        background-color: #008dff;
+        margin-top: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 40px 40px;
+    }
+
+    &__block {
+        // border: 5px solid red;
+        width: 97%;
+        height: auto;
+        background-color: #fff;
+        border-radius: 20px;
+        display: flex;
+        align-items: center;
+        grid-gap: 30px;
+        padding: 25px 50px;
+        // justify-content: space-between;
+    }
+
+    &__box {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        h2 {
+            font-size: 16px;
+            line-height: 24px;
+            color: #000;
+            margin-bottom: 4px;
+        }
+
+        p {
+            font-size: 14px;
+            font-weight: normal;
+            line-height: 21px;
+            color: #858997;
+        }
+
+        img {
+            width: 50px;
+            margin-right: 15px;
+        }
+    }
+
+    // food
+    &__food {
+        display: flex;
+        width: 100%;
+        height: auto;
+        justify-content: space-between;
+        padding: 0 20px;
+        gap: 30px;
+    }
+
+    &__t {
+        margin-top: 25px;
+    }
+
+    &__t2 {
+        margin-top: 50px;
+    }
+
+    &__info {
+        h2 {
+            font-size: 23px;
+        }
+    }
+
+    &__m {
+        display: flex;
+        flex-direction: column;
+        grid-gap: 10px;
+        margin-top: 15px;
+
+        p {
+            color: #858997;
+
+            &:hover {
+                text-decoration: none;
+                color: #008dff;
+                // -webkit-transform: translateX(10px);
+                transform: translateX(10px);
+                transition: 2s;
+            }
+        }
+    }
+
+    &__logo-s {
+        display: flex;
+        align-items: center;
+        // justify-content: center;
+        grid-gap: 10px;
+    }
+
+    &__karta {
+        display: flex;
+        flex-direction: column;
+        grid-gap: 10px;
+    }
+
+    &__carta {
+        width: 100px;
+        height: 50px;
+        background-color: #e5ecf2;
+
+        img {
+            padding: 10px;
+        }
+    }
+
+
+    // resposive
+    @media screen and (max-width: 1024px) {
+        .footer__logos {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 30px;
+        }
+    }
+
+    @media screen and (max-width: 880px) {
+        .foot__block {
+            max-width: 90%;
+            height: auto;
+            background-color: #fff;
+            border-radius: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            grid-gap: 30px;
+            padding: 25px 50px;
+        }
+
+        @media screen and (max-width: 770px) {
+            .footer__logos {
+                background-color: orange;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                padding: 30px;
+            }
+
+            .footer__wrap {
+                width: 55%;
+                height: auto;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                grid-gap: 15px;
+            }
+
+            .footer__text {
+                width: 230px;
+                text-align: center;
+
+                h2 {
+                    color: #fff;
+                    font-size: 18px;
+                }
+            }
+
+            .footer__app {
+                width: 90%;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: space-between;
+                gap: 10px;
+
+                img {
+                    width: 120px;
+                    height: 38px;
+                    margin-top: 5px;
+                }
+            }
+
+            &__food {
+                border: 3px solid red;
+                width: 100%;
+                height: auto;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+                padding: 0 20px;
+                gap: 30px;
+            }
+        }
+
+        @media screen and (max-width:425px) {
+            .footer__app {
+                background-color: red;
+                width: 90%;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: space-between;
+                gap: 10px;
+
+                img {
+                    width: 100px;
+                    height: 35px;
+                    // margin-top: 5px;
+                }
+
+                .footer__tell {
+                    margin-right: 70px;
+
+                    img {
+                        width: 70px;
+
+                    }
+                }
+            }
+        }
+    }
+}

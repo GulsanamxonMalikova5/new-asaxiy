@@ -1,0 +1,109 @@
+[
+    {
+        "id": 0,
+        "brand": "Samsung",
+        "name": "SST Airpods 3 Pro simsiz quloqchinlari",
+        "image": "https://assets.asaxiy.uz/product/items/desktop/06e9cae141f8da479bc5f28289f167ea202301261235462109485eCZrinPa.png.webp",
+        "price": "149 000 so'm",
+        "feedback": "0 sharh"
+    },
+    
+    {
+        "id": 1,
+        "brand": "Xiaomi",
+        "name": "Xiaomi Redmi Note 11 Pro 8/128GB Kulrang Smartfoni",
+        "image": "https://assets.asaxiy.uz/product/items/desktop/c32d9bf27a3da7ec8163957080c8628e20230503112555432852eYWU4gItW.png.webp",
+        "price": "3 299 000 so'm",
+        "feedback": "22 sharh"
+    },
+    
+    {
+        "id": 2,
+        "brand": "Samsung",
+        "name": "Samsung Galaxy Tab A7 Lite 4G 3/32GB Gray plansheti",
+        "image": "https://assets.asaxiy.uz/product/items/desktop/0a1a6fcc059030a66297691ea5de9c702022032911010439964cKAZJ6dPTn.jpg.webp",
+        "price": "2 622 000 so'm",
+        "feedback": "14 sharh"
+    },
+    
+    {
+        "id": 3,
+        "brand": "Samsung",
+        "name": "Samsung Galaxy A13 4/64GB Black",
+        "image": "https://assets.asaxiy.uz/product/items/desktop/b6d767d2f8ed5d21a44b0e5886680cb92022041115555879069EWhxUjUrtw.jpg.webp",
+        "price": "2 049 000 so'm",
+        "feedback": "6 sharh"
+    },
+    
+    {
+        "id": 4,
+        "brand": "Samsung",
+        "name": "Samsung Galaxy Buds Pro Black simsiz quloqchini",
+        "image": "https://assets.asaxiy.uz/product/items/desktop/f8ce83527a485d22cffb6abe6453b8c02021020712575127428AoGbbKaRhr.jpg.webp",
+        "price": "399 000 so'm",
+        "feedback": "6 sharh"
+    },
+    
+    {
+        "id": 5,
+        "brand": "Samsung",
+        "name": "Samsung Galaxy S22 Ultra 12/256GB Qora Smartfoni",
+        "image": "https://assets.asaxiy.uz/product/items/desktop/5b7a9d26fadad3953b9d6c0c531acdae2022030511064074991BjkdjJaiqF.jpg.webp",
+        "price": "499 000 so'm",
+        "feedback": "0 sharh"
+    },
+    
+    {
+        "id": 6,
+        "brand": "Hoco",
+        "name": "Наушники Hoco M40 Prosody ХИТ ПРОДАЖ!",
+        "image": "https://assets.asaxiy.uz/product/main_image/desktop//5fd07af09cc8c.jpg",
+        "price": "50 000 so'm",
+        "feedback": "0 sharh"
+    },
+    
+    {
+        "id": 7,
+        "brand": "Xiaomi",
+        "name": "Xiaomi Amazfit Bip 3 Pro Pink smart-soati",
+        "image": "https://assets.asaxiy.uz/product/items/desktop/b2eeb7362ef83deff5c7813a67e14f0a2022102414574359527NuYONNVkjP.png.webp",
+        "price": "199 000 so'm",
+        "feedback": "1 sharh"
+    },
+    
+    {
+        "id": 8,
+        "brand": "HUAWEI",
+        "name": "HUAWEI FreeBuds SE, Blue simsiz quloqchini (promo)",
+        "image": "https://assets.asaxiy.uz/product/items/desktop/72da7fd6d1302c0a159f6436d01e9eb020221119123317102204tJpdEkurk.png.webp",
+        "price": "1 399 000 so'm",
+        "feedback": "0 sharh"
+    },
+    
+    {
+        "id": 9,
+        "brand": "iPhone",
+        "name": "iPhone 13 Pro max 128GB Sierra Blue smartfoni",
+        "image": "https://assets.asaxiy.uz/product/items/desktop/84d88100e2d28c678e5254463ae4edd82021092512465060512gCFEaw9dKy.jpg.webp",
+        "price": "15 199 000 so'm",
+        "feedback": "5 sharh"
+    },
+    
+    {
+        "id": 10,
+        "brand": "Xiaomi",
+        "name": "Xiaomi Redmi Note 11 Pro 8/128GB Kulrang Smartfoni",
+        "image": "https://assets.asaxiy.uz/product/items/desktop/c32d9bf27a3da7ec8163957080c8628e20230503112555432852eYWU4gItW.png.webp",
+        "price": "3 269 000 so'm",
+        "feedback": "10 sharh"
+    },
+    
+    {
+        "id": 11,
+        "brand": "Samsung",
+        "name": "Samsung Galaxy S21+ 5G 8/128GB Silver smartfoni",
+        "image": "https://assets.asaxiy.uz/product/items/desktop/c4e5dc4d8d251ddf1248298c6c46b9cd2021020913145192888qy6osAaBFN.jpg.webp",
+        "price": "5 404 000 so'm",
+        "feedback": "3 sharh"
+    }
+]

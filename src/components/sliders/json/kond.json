@@ -1,0 +1,29 @@
+[{
+    "id": 1,
+    "brand": "LG Electronics",
+    "name": "Кондиционер LG Dual Inverter 12 (P12SP)",
+    "image": "https://assets.asaxiy.uz/product/main_image/desktop//5e9ab4dab0fbc.jpg",
+    "price": "5 564 000 сум",
+    "feedback": "3 отзывов"
+},{
+    "id": 3,
+    "brand": "LG Electronics",
+    "name": "Кондиционер LG Dual Inverter 18 (P18SP)",
+    "image": "https://assets.asaxiy.uz/product/main_image/desktop//5e9ab5811d2a6.jpg",
+    "price": "7 704 000 сум",
+    "feedback": "1 отзывов"
+},{
+    "id": 4,
+    "brand": "Gree",
+    "name": "Кондиционер Gree Bora Inverter 12",
+    "image": "https://assets.asaxiy.uz/product/main_image/desktop/5e15bbd133a23.png",
+    "price": "4 976 000 сум",
+    "feedback": "0 отзывов"
+},{
+    "id": 5,
+    "brand": "Gree",
+    "name": "Кондиционер Gree Lomo Inverter 12",
+    "image": "https://assets.asaxiy.uz/product/main_image/desktop/5e15bdd27eff1.png",
+    "price": "5 350 000 сум",
+    "feedback": "0 отзывов"
+}]

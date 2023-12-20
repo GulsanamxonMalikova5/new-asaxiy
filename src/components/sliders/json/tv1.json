@@ -1,0 +1,29 @@
+[{
+    "id": 6,
+    "brand": "LG Electronics",
+    "name": "Телевизор LG OLED65C9P 4K UHD Smart TV",
+    "image": "https://assets.asaxiy.uz/product/main_image/desktop/5e15bc4a8ef80.jpg",
+    "price": "26 322 000 сум",
+    "feedback": "28 отзывов"
+},{
+    "id": 7,
+    "brand": "Sony",
+    "name": "Телевизор Sony KDL-50WF665 Full HD Smart TV",
+    "image": "https://assets.asaxiy.uz/product/main_image/desktop//5ea6a57e4dac0.jpg",
+    "price": "5 832 000 сум",
+    "feedback": "0 отзывов"
+},{
+    "id": 8,
+    "brand": "Китай",
+    "name": "Smart TV приставка X96 Air 2/16 GB",
+    "image": "https://assets.asaxiy.uz/product/main_image/desktop//5ea3ff84e14cb.jpg",
+    "price": "439 000 сум",
+    "feedback": "0 отзывов"
+},{
+    "id": 11,
+    "brand": "Телекарта ТВ",
+    "name": "Комплект Телекарта ТВ Премьер+ (220 каналов) + 2 года бесплатного  просмотра",
+    "image": "https://assets.asaxiy.uz/product/main_image/desktop/5e15bb81c1ba5.jpg",
+    "price": "1 499 000 сум",
+    "feedback": "23 отзывов"
+}]

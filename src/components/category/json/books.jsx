@@ -1,0 +1,97 @@
+export const Books = [
+    {
+        "id": 0,
+        "name": "Latte omili. Moliyaviy mustaqillik va erkin hayot sari",
+        "image": "https://assets.asaxiy.uz/product/items/desktop/298124a8c14f2fd393bd11b4f643603c2023020309521141036WXt5YHNAJr.jpg.webp",
+        "price": "49 000 so'm",
+        "feedback": "0 sharh"
+    },
+    
+    {
+        "id": 1,
+        "name": "Uolter Ayzekson: Kod Buza",
+        "image": "https://assets.asaxiy.uz/product/items/desktop/7b4d1fe1a7617f50fb003c3c0f1c5a342023050311570795793PgdRFdBz2H.jpg.webp",
+        "price": "69 000 so'm",
+        "feedback": "0 sharh"
+    },
+    
+    {
+        "id": 2,
+        "name": "Jeyms Klir: Atom odatlar",
+        "image": "https://assets.asaxiy.uz/product/items/desktop/be1bc7997695495f756312886f5661102022042721444072504yCTRpe6uKr.jpg.webp",
+        "price": "39 000 so'm",
+        "feedback": "29 sharh"
+    },
+    
+    {
+        "id": 3,
+        "name": "Teodor Drayzer: Sarmoyador",
+        "image": "https://assets.asaxiy.uz/product/items/desktop/19055b3a7336446fb2c19fcbb42e9b742022011420025832702hD9NFIYYp3.jpg.webp",
+        "price": "59 000 so'm",
+        "feedback": "16 sharh"
+    },
+    
+    {
+        "id": 4,
+        "name": "Temur Malik: Musofirnoma (1-kitob)",
+        "image": "https://assets.asaxiy.uz/product/items/desktop/5e15c21abc312.jpg.webp",
+        "price": "29 000 so'm",
+        "feedback": "53 sharh"
+    },
+    
+    {
+        "id": 5,
+        "name": "Ulug‘bek Hamdam: To‘lin oy qissasi",
+        "image": "https://assets.asaxiy.uz/product/items/desktop/5e15c1573b006.jpg.webp",
+        "price": "49 000 so'm",
+        "feedback": "31 sharh"
+    },
+    
+    {
+        "id": 6,
+        "name": "Paulo Koelo: Alif",
+        "image": "https://assets.asaxiy.uz/product/items/desktop/818de4d2ec21cfcb149ced7a5bed25ab2022042721370919249Io0G7IrzGp.jpg.webp",
+        "price": "99 000 so'm",
+        "feedback": "268 sharh"
+    },
+    
+    {
+        "id": 7,
+        "name": "Uolter Ayzekson: Stiv Jobs",
+        "image": "https://assets.asaxiy.uz/product/items/desktop/62afaf4f661699d406da07f417694ab02020090113252448908XTd2lc78nx.jpg.webp",
+        "price": "79 000 so'm",
+        "feedback": "11 sharh"
+    },
+    
+    {
+        "id": 8,
+        "name": "Elif Shafaq: Ishqqa oid 40 qoida",
+        "image": "https://assets.asaxiy.uz/product/items/desktop/871e34406ca7df9e745e9bdacbd849aa20210127105706372901SjhErb7SD.jpg.webp",
+        "price": "470 000 so'm",
+        "feedback": "9 sharh"
+    },
+    
+    {
+        "id": 9,
+        "name": "Elchin Safarli: Qaytganimda uyda bo‘l...",
+        "image": "https://assets.asaxiy.uz/product/items/desktop/caa202034f268232c26fac9435f54e152022050413262873878mxnVKyy7tC.jpg.webp",
+        "price": "49 000 so'm",
+        "feedback": "18 sharh"
+    },
+    
+    {
+        "id": 10,
+        "name": "Eng sara muhabbat qissalari",
+        "image": "https://assets.asaxiy.uz/product/items/desktop/5e15bfe978cbd.jpg.webp",
+        "price": "19 000 so'm",
+        "feedback": "2 sharh"
+    },
+    
+    {
+        "id": 11,
+        "name": "Muhabbatning mangu ertagi",
+        "image": "https://assets.asaxiy.uz/product/items/desktop/5e15c1acc8d63.jpg.webp",
+        "price": "39 000 so'm",
+        "feedback": "30 sharh"
+    }
+]

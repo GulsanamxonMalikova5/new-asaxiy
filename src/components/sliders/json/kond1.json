@@ -1,0 +1,29 @@
+[{
+    "id": 6,
+    "brand": "LG Electronics",
+    "name": "Кондиционер LG Artcool Dual Inverter Wi-Fi 12 (AC12BQ)",
+    "image": "https://assets.asaxiy.uz/product/main_image/desktop//5e9ab08fee62b.jpg",
+    "price": "7 062 000 сум",
+    "feedback": "0 отзывов"
+},{
+    "id": 8,
+    "brand": "LG Electronics",
+    "name": "Кондиционер LG Dual Inverter 09 (P09SP2)",
+    "image": "https://assets.asaxiy.uz/product/main_image/desktop//5e9ab45e2e8b0.jpg",
+    "price": "5 350 000 сум",
+    "feedback": "1 отзывов"
+},{
+    "id": 9,
+    "brand": "Gree",
+    "name": "Кондиционер Gree Fairy Inverter 12",
+    "image": "https://assets.asaxiy.uz/product/main_image/desktop/5e15c08f80e34.jpg",
+    "price": "5 350 000 сум",
+    "feedback": "0 отзывов"
+},{
+    "id": 10,
+    "brand": "Gree",
+    "name": "Кондиционер Gree Bora Inverter 09",
+    "image": "https://assets.asaxiy.uz/product/main_image/desktop/5e15c02140e28.png",
+    "price": "4 601 000 сум",
+    "feedback": "0 отзывов"
+}]

@@ -1,0 +1,29 @@
+[{
+    "id": 1,
+    "brand": "LG Electronics",
+    "name": "Телевизор LG 43LM5500 Full HD",
+    "image": "https://assets.asaxiy.uz/product/main_image/desktop/5e15bd56b0f4c.png",
+    "price": "3 306 000 сум",
+    "feedback": "8 отзывов"
+},{
+    "id": 3,
+    "brand": "Artel",
+    "name": "Телевизор Artel UA32H4101 LED TV",
+    "image": "https://assets.asaxiy.uz/product/main_image/desktop//5e902cce6eb96.jpg",
+    "price": "2 001 000 сум",
+    "feedback": "0 отзывов"
+},{
+    "id": 4,
+    "brand": "LG Electronics",
+    "name": "Телевизор LG 43LM5700 Full HD Smart TV",
+    "image": "https://assets.asaxiy.uz/product/main_image/desktop//5ec35f5ec2529.jpg",
+    "price": "3 745 000 сум",
+    "feedback": "3 отзывов"
+},{
+    "id": 5,
+    "brand": "LG Electronics",
+    "name": "Телевизор LG 49UM7490 4K UHD Smart TV",
+    "image": "https://assets.asaxiy.uz/product/main_image/desktop/5e15bfc1f1e92.jpg",
+    "price": "5 725 000 сум",
+    "feedback": "1 отзывов"
+}]
