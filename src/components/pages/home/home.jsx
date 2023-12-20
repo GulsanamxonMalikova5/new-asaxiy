@@ -1,5 +1,5 @@
 import React from 'react'
-import './Home.scss'
+import './home.scss'
 import Card from '../../content/card/card'
 import { AllData } from '../../category/json/all'
 

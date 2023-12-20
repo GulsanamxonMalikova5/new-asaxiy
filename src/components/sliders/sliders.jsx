@@ -13,7 +13,7 @@ import Premyera from './img/premyera.jpg'
 import Kun from './img/kun-chegirmasi.jpg'
 import Bolalar from './img/bolalar.jpg'
 
-import './Sliders.scss'
+import './sliders.scss'
 import 'swiper/css/pagination';
 import 'swiper/css/navigation';
 import 'swiper/css/autoplay'

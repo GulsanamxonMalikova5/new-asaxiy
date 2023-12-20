@@ -1,5 +1,5 @@
 import React from 'react'
-import './Card.scss'
+import './card.scss'
 import Star from './img/star.svg'
 import Chat from './img/chat.svg'
 import Cart from  './img/cart.svg'

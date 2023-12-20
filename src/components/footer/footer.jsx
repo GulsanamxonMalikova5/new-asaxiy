@@ -1,5 +1,5 @@
 import React from 'react'
-import './Footer.scss'
+import './footer.scss'
 import Wlogo from './img/asaxiy-logo-white.svg'
 import Store from './img/app-store.svg'
 import Play from './img/google-play.svg'
