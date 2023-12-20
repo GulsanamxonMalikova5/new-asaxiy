@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import './Navbar.scss'
+import './navbar.scss'
 import Tolov from './img/tolov.svg'
 import Tracker from './img/tracker.svg'
 import Language from './img/language.svg'
